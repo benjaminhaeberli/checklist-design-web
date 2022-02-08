@@ -4,8 +4,6 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![GPLv3 license](https://img.shields.io/badge/Langage-FR-lightgray.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-<div style="border: 2px solid lightgray; padding:16px; margin:16px 0px;">
-
 ## Pourquoi et comment utiliser cette checklist ?
 
 J’ai conçu cette checklist, [basée sur celle de David Dias](https://github.com/thedaviddias/Front-End-Design-Checklist), afin de de simplifier la collaboration entre les designers et les développeur·euse·s. Il est primordial pour les designers de prendre en considération l’aspect technique lors de la conception pour éviter des problèmes d’intégration lors du développement. Ces deux métiers sont complémentaires et je suis convaincu que chacun·e doit connaître les contraintes de l’autre pour un rendu optimal.
@@ -13,10 +11,6 @@ J’ai conçu cette checklist, [basée sur celle de David Dias](https://github.c
 Si vous êtes designer, je peux vous garantir qu’en utilisant cette checklist les développeur·euse·s vous seront très reconnaissant·e·s. À l’inverse, si vous êtes développeur·euse, adaptez cette checklist à votre méthodologie et partagez là aux designers avec qui vous travaillez.
 
 Cette checklist est également disponible sur [Notion](https://benjaminhaeberli.notion.site/Checklist-du-designer-web-8ed31e4854a249dc9680f0ba8bcadd1d) 😉
-
-</div>
-
-<div style="border: 2px solid lightgray; padding:16px;">
 
 ## Table des matières 📄
 
@@ -40,13 +34,13 @@ Cette checklist est également disponible sur [Notion](https://benjaminhaeberli.
 
 Pour faciliter le workflow (export des assets, compréhension du design), je ne travaille plus qu’avec ces deux outils qui selon moi sont les meilleurs du marché et disponible sur toutes les plateformes. Si tu fais partie des dinosaures qui n’utilise pas encore au moins un de ces outils, comment procèdes-tu ?
 
-<div style="display:flex; color:darkgray;">
+<div style="color:darkgray;">
     <figure>
-        <img src="./images/figma.png">
+        <img src="./images/figma.png" style="max-width:200px">
         <figcaption>Le meilleur, je vous jure 🙈</figcaption>
     </figure> 
     <figure>
-        <img src="./images/adobexd.png">
+        <img src="./images/adobexd.png" style="max-width:200px">
         <figcaption>Je l’accepte encore mais Figma est mieux 🤭</figcaption>
     </figure>
 </div>
@@ -177,7 +171,7 @@ Pour faciliter le workflow (export des assets, compréhension du design), je ne 
     -   📖 [Modèles de pages RGPD](https://benjaminhaeberli.notion.site/RGPD-bc128de3cac5406b93f931957107beec)
 -   [ ] Tous **les composants ont été validés** par le·la développeur·euse comme réalisables techniquement et compatibles avec la stack technique qui sera utilisée
 
-<div style="border: 2px solid lightgray; padding:0px 16px; margin:40px 0px;">
+---
 
 ### Crédits
 
@@ -185,5 +179,3 @@ Pour faciliter le workflow (export des assets, compréhension du design), je ne 
 -   Contributions : [Liste des contributeurs](https://github.com/benjaminhaeberli/checklist-design-web/graphs/contributors)
 -   Basée sur [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist) par **[David Dias](https://thedaviddias.dev/)**
 -   License : [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
-
-</div>
