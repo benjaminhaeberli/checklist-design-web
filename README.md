@@ -32,18 +32,15 @@ Cette checklist est également disponible sur [Notion](https://benjaminhaeberli.
 
 ## 1.1 - Outils
 
-Pour faciliter le workflow (export des assets, compréhension du design), je ne travaille plus qu’avec ces deux outils qui selon moi sont les meilleurs du marché et disponible sur toutes les plateformes. Si tu fais partie des dinosaures qui n’utilise pas encore au moins un de ces outils, comment procèdes-tu ?
+Pour faciliter le workflow (export des assets, compréhension du design), je ne travaille plus qu’avec [Figma](https://www.figma.com/) et [Adobe XD](https://www.adobe.com/ch_fr/products/xd.html) qui selon moi sont les meilleurs du marché et disponible sur toutes les plateformes. Pour avoir essayé les deux, je recommande [Figma](https://www.figma.com/) sans hésiter.
 
-<div style="color:darkgray;">
-    <figure>
-        <img src="./images/figma.png" style="max-width:200px">
-        <figcaption>Le meilleur, je vous jure 🙈</figcaption>
-    </figure> 
-    <figure>
-        <img src="./images/adobexd.png" style="max-width:200px">
-        <figcaption>Je l’accepte encore mais Figma est mieux 🤭</figcaption>
-    </figure>
+Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outils, comment procèdes-tu ?
+
+<div align="center">
+    <img src="./images/figma.png" width="200px" alt="Logo du logiciel informatique Figma">
+    <img src="./images/adobexd.png" width="200px" alt="Logo du logiciel informatique Adobe XD">
 </div>
+
 
 ## 1.2 - Styleguide et composants
 
@@ -65,12 +62,12 @@ Pour faciliter le workflow (export des assets, compréhension du design), je ne 
 
 -   [ ] Une **grille standardisée** est explicitement prévue dans le design, et les détails de celle-ci sont présents dans la spécification technique (largeur, gouttières, nombre de colonnes...). Le standard actuel est d’utiliser `8px` ou `16px` pour les goutières et un nombre pair de colonnes (4 pour mobile et 12 pour desktop).
 
-<div style="text-align:center; color:darkgray;">
-    <figure>
-        <img src="./images/grid.png" width="500px">
-        <figcaption>Proposition de configuration de grille se basant sur les tailles d’écrans standards</figcaption>
-    </figure> 
+<div align="center">
+    <img src="./images/grid.png" width="500px" alt="Proposition de configuration de grille se basant sur les tailles d’écrans standards">
+    <p>Proposition de configuration de grille se basant sur les tailles d’écrans standards</p>
 </div>
+
+
 
 **Ressources :**
 
@@ -101,7 +98,7 @@ Pour faciliter le workflow (export des assets, compréhension du design), je ne 
 
     -   📖 [Les bases de la typographie web](https://raidboxes.io/fr/blog/agencies-freelancers/wordpress-management/) - Raidboxes
 
--   [ ] Les polices pour le bureau (TTF ou OTF en général) et les polices pour le web, au format **WOFF, WOFF2 et TTF** ont été fournies (toutes variantes comprises).
+-   [ ] Les polices pour le bureau (TTF ou OTF en général) et les polices pour le web, au format **WOFF et WOFF2** ont été fournies (toutes variantes comprises).
 -   [ ] Des **polices de secours** (aussi appelées « [fallback fonts](https://en.wikipedia.org/wiki/Fallback_font) ») sont spécifiées.
 -   [ ] Le **poids total** de toutes les polices ne dépasse pas 1 à 2 Mo, toutes variantes comprises.
 -   [ ] Dans la mesure du possible, tous les textes sont fournis dans la **langue appropriée** au lieu de textes factices comme du Lorem Ipsum. Cela est encore plus important pour les applications multilingues car la longueur d’une section ou d’un titre peut varier d’une langue à l’autre.
