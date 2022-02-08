@@ -20,23 +20,23 @@ Cette checklist est également disponible sur [Notion](https://benjaminhaeberli.
 
 ## Table des matières 📄
 
--   **[1. Design](#1---design)**
+-   **[1 - Design](#1---design)**
     -   [1.1 Outils](#11---outils)
     -   [1.2 Styleguide et composants](#12---styleguide-et-composants)
     -   [1.3 Grille](#13---grille)
     -   [1.4 Couleurs](#14---couleurs)
     -   [1.5 Typographie](#15---typographie)
-    -   [1.6 Images et icônes](#16---images-et-icones)
+    -   [1.6 Images et icônes](#16---images-et-icônes)
     -   [1.7 Liens et navigation](#17---liens-et-navigation)
-    -   [1.8 Formulaires et boutons](#18---formulaire-et-boutons)
+    -   [1.8 Formulaires et boutons](#18---formulaires-et-boutons)
     -   [1.9 Responsive](#19---responsive)
--   **[2. Livraison](#2---analysis-and-pre-work-phases)**
+-   **[2 - Livraison](#2---livraison)**
 
 </div>
 
 # 1 - Design
 
-## 1.0 - Outils
+## 1.1 - Outils
 
 Pour faciliter le workflow (export des assets, compréhension du design), je ne travaille plus qu’avec ces deux outils qui selon moi sont les meilleurs du marché et disponible sur toutes les plateformes. Si tu fais partie des dinosaures qui n’utilise pas encore au moins un de ces outils, comment procèdes-tu ?
 
@@ -168,7 +168,7 @@ Pour faciliter le workflow (export des assets, compréhension du design), je ne 
 
 ⚠️ La notion de « pixel perfect » est d'une certaine manière dépréciée. Aujourd'hui, il est impossible d'avoir un design qui fonctionne de la même manière face à la multitude des tailles d'écran et de technologies.
 
-# 2.0- Livraison
+# 2 - Livraison
 
 -   [ ] Pour tous les sites web, au moins 2 versions du design sont fournis (mobile, desktop et éventuellement tablette) ainsi que le **styleguide**.
 -   [ ] Les fichiers **Figma** ou **Adobe XD** sont nettoyés avant d'être livrés. Les calques vides et inutiles doivent être supprimés pour faciliter l’intégration.
