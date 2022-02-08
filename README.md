@@ -95,7 +95,8 @@ Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outil
 ## 1.6 - Images et icônes
 
 -   [ ] Toutes les **images** (JPEG, PNG) doivent être fournies en résolution 1x et 2x (si possible également 3x) afin de supporter [les écrans Retina](https://www.anthedesign.fr/creation-de-sites-internet/retina-design-web/). Je m’occupe ensuite de convertir les images en format « Next Gen » (WEBP, AVIF) avec [Squoosh](https://squoosh.app/) ou similaire.
--   [ ] Une **image de favicon** d'au moins 512px \* 512px est fournie au format PNG. La génération de tous les autres favicons peut être facilement réalisée avec des outils en ligne.
+-   [ ] Une **image de favicon** d'au moins `512px` * `512px` est fournie au format PNG. La génération de tous les autres favicons peut être facilement réalisée avec des [Favicon Generator](https://realfavicongenerator.net/).
+-   [ ] Une image « [open graph](https://simplified.co/blog/design-hacks/open-graph-image-everything-you-need-to-know/) » de `1200px` * `600px` est fourni au format JPEG. Elle sera utilisée par défaut lorsque le site sera partagé sur les réseaux sociaux.
 -   [ ] Toutes les **icônes** sont fournies au **format SVG**, chacune ayant le même ratio, en noir et optimisés pour le web avec [SVGOMG](https://jakearchibald.github.io/svgomg/) (tout cocher sauf les cases qui modifient le rendu final). Le nom de chaque icône commence par `icon-` et est entièrement en minuscules (sans espace et en utilisant des tirets pour séparer chaque mot).
 
 **Ressources :**
