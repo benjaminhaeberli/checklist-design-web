@@ -1,3 +1,7 @@
+### 🇬🇧 If you want to translate this checklist into your language, feel free to create a [pull request](https://github.com/benjaminhaeberli/checklist-design-web/pulls) with the translation !
+
+---
+
 # Checklist du design web 🖌️
 
 [![PRs Welcome](https://img.shields.io/badge/Contributions-👍-brightgreen.svg)](https://github.com/benjaminhaeberli/checklist-design-web/pulls)
