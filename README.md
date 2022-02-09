@@ -1,4 +1,4 @@
-# Checklist du designer web 🖌️
+# Checklist du design web 🖌️
 
 [![PRs Welcome](https://img.shields.io/badge/Contributions-👍-brightgreen.svg)](https://github.com/benjaminhaeberli/checklist-design-web/pulls)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
