@@ -148,13 +148,13 @@ Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outil
 -   [ ] Tous **les composants ont été validés** par le·la développeur·euse comme réalisables techniquement et compatibles avec la stack technique qui sera utilisée
 
 **Ressources :**
--   📖 [Modèles de pages RGPD](https://github.com/benjaminhaeberli/templates-rgpd-web)
+-   📖 [Modèles de pages RGPD](https://github.com/benjaminhaeberli/modeles-rgpd-web)
 
 ---
 
 ### Crédits
 
 -   Auteur : **[Benjamin Haeberli](https://benjaminhaeberli.ch/)**
--   Contributions : [Liste des contributeurs](https://github.com/benjaminhaeberli/checklist-design-web/graphs/contributors)
--   Basée sur [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist) par **[David Dias](https://thedaviddias.dev/)**
+-   Contributeurs : [Tous les contributeurs](https://github.com/benjaminhaeberli/checklist-design-web/graphs/contributors)
+-   Inspirée de la [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 -   License : [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
