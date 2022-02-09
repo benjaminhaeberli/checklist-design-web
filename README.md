@@ -148,7 +148,7 @@ Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outil
 -   [ ] Tous **les composants ont été validés** par le·la développeur·euse comme réalisables techniquement et compatibles avec la stack technique qui sera utilisée
 
 **Ressources :**
--   📖 [Modèles de pages RGPD](https://benjaminhaeberli.notion.site/RGPD-bc128de3cac5406b93f931957107beec)
+-   📖 [Modèles de pages RGPD](https://github.com/benjaminhaeberli/templates-rgpd-web)
 
 ---
 
