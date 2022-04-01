@@ -94,7 +94,8 @@ Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outil
 -   [ ] Dans la mesure du possible, tous les textes sont fournis dans la **langue appropriée** au lieu de textes factices comme du Lorem Ipsum. Cela est encore plus important pour les applications multilingues car la longueur d’une section ou d’un titre peut varier d’une langue à l’autre.
 
 **Ressources :**
--   📖 [Les bases de la typographie web](https://raidboxes.io/fr/blog/agencies-freelancers/wordpress-management/) – Raidboxes
+-   📖 [Les bases de la typographie web](https://raidboxes.io/fr/blog/webdesign-development/typographie-grundlagen-webfonts-tipps/) – Raidboxes
+-   📖 [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) pour télécharger les polices Google en local
 
 ## 1.6 - Images et icônes
 
