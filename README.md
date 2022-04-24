@@ -95,7 +95,8 @@ Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outil
 
 **Ressources :**
 -   📖 [Les bases de la typographie web](https://raidboxes.io/fr/blog/webdesign-development/typographie-grundlagen-webfonts-tipps/) – Raidboxes
--   📖 [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) pour télécharger les polices Google en local
+-   🛠 [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/) pour télécharger les polices Google en local
+-   🛠 [Transfonter](https://transfonter.org/) pour convertir les polices au format web et générer le CSS approprié
 
 ## 1.6 - Images et icônes
 
