@@ -118,12 +118,12 @@ Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outil
 
 **Ressources :**
 
-- 🛠 [Favicon Generator](https://realfavicongenerator.net/) pour générer toutes les versions du **favicon**
+- 🛠 [Favicon Generator](**https**://realfavicongenerator.net/) pour générer toutes les versions du **favicon**
 - 🛠 [SVGOMG](https://jakearchibald.github.io/svgomg/) pour optimiser les SVG
 
 ## 1.7 - Liens et navigation
 
-- [ ] Tous les **liens** ont cinq états définis : l’état par défaut, l’état de survol, l’état cliqué, l’état focus et l’état inactif.
+- [ ] Tous les **liens** ont quatre états définis : l’état par défaut, l’état de survol, l’état focus et l’état inactif.
 - [ ] Tous les **éléments du menu** ont six états définis : l’état par défaut, l’état actif (page courante) l’état de survol, l’état cliqué, l’état focus et l’état inactif.
 - [ ] Tous les **liens externes** (qui renvoient vers un autre site) sont identifiables par leur style. Je recommande l’utilisation d’un icône SVG comme [celui utilisé par Mozilla](./images/external_link.svg), à placer sur la droite du lien.
 
