@@ -14,8 +14,6 @@ J’ai conçu cette checklist, [basée sur celle de David Dias](https://github.c
 
 Si vous êtes designer, je peux vous garantir qu’en utilisant cette checklist les développeur·euse·s vous seront très reconnaissant·e·s. À l’inverse, si vous êtes développeur·euse, adaptez cette checklist à votre méthodologie et partagez là aux designers avec qui vous travaillez.
 
-Cette checklist est également disponible sur [Notion](https://benjaminhaeberli.notion.site/Checklist-du-designer-web-8ed31e4854a249dc9680f0ba8bcadd1d) 😉
-
 ## Table des matières 📄
 
 - **[1 - Design](#1---design)**
@@ -36,19 +34,16 @@ Cette checklist est également disponible sur [Notion](https://benjaminhaeberli.
 
 ## 1.1 - Outils
 
-Pour faciliter le workflow (export des assets, compréhension du design), je ne travaille plus qu’avec [Figma](https://www.figma.com/) et [Adobe XD](https://www.adobe.com/ch_fr/products/xd.html) qui selon moi sont les meilleurs du marché et disponible sur toutes les plateformes. Pour avoir essayé les deux, je recommande [Figma](https://www.figma.com/) sans hésiter.
-
-Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outils, comment procèdes-tu ?
+Pour faciliter le workflow (export des assets, compréhension du design), je ne travaille plus qu'avec [Figma](https://www.figma.com/) qui est devenu le standard de l'industrie et est disponible sur toutes les plateformes.
 
 <div align="center">
     <img src="./images/figma.png" width="200px" alt="Logo du logiciel informatique Figma">
-    <img src="./images/adobexd.png" width="200px" alt="Logo du logiciel informatique Adobe XD">
 </div>
 
 ## 1.2 - Styleguide et composants
 
 - [ ] Tous les **composants** sont créés avec l'approche « [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) ». Dans le cas contraire, des problèmes peuvent survenir en termes de performance et de maintenabilité du projet.
-- [ ] Un **styleguide** (aussi appelé « guide de style ») au format **Figma** ou **Adobe XD** est fourni : il regroupe tous les éléments, composants, styles et dimensions utilisés dans le design.
+- [ ] Un **styleguide** (aussi appelé « guide de style ») au format **Figma** est fourni : il regroupe tous les éléments, composants, styles et dimensions utilisés dans le design.
 
 **Ressources** :
 
@@ -59,7 +54,7 @@ Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outil
 
 ## 1.3 - Grille
 
-- [ ] Pour les **mises en page standard** (colonnes et lignes), tous les éléments sont gérés via des « [Auto Layout](https://help.figma.com/hc/fr/articles/360040451373-Cr%C3%A9ation-de-designs-dynamiques-avec-la-disposition-automatique) » sur **Figma** ou « [Stacks](https://helpx.adobe.com/fr/xd/help/create-dynamic-designs-with-stacks.html) » sur **Adobe XD**
+- [ ] Pour les **mises en page standard** (colonnes et lignes), tous les éléments sont gérés via des « [Auto Layout](https://help.figma.com/hc/fr/articles/360040451373-Cr%C3%A9ation-de-designs-dynamiques-avec-la-disposition-automatique) » sur **Figma**
 - [ ] Pour les **mises en page complexes**, notamment des éléments qui se chevauchent, des **grille standardisées** sont utilisées. Tous les détails de celles-ci (largeur, gouttières, nombre de colonnes, marges) doivent être spécifiés. Le standard actuel est d’utiliser un multiple de 8 pour les gouttières et un nombre pair de colonnes (4 pour mobile et 12 pour desktop).
 
 <div align="center">
@@ -81,7 +76,6 @@ Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outil
 - 📖 [Responsive layouts grid guide for designers](https://uxdesign.cc/responsive-layout-grid-guide-for-designers-c3ba7d161bdf) pour comprendre le fonctionnement d’une grille
 - 🛠 [Grid Calculator](http://gridcalculator.dk/) pour calculer vos tailles de colonnes
 - 📖 [Guide : Créer et gérer ses grilles sur Figma](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows)
-- 📖 [Guide : Créer et gérer ses grilles sur Adobe XD](https://helpx.adobe.com/xd/help/work-with-guides-and-grids-in-adobe-xd.html) pour créer et gérer ses grilles
 
 ## 1.4 - Couleurs
 
@@ -118,7 +112,7 @@ Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outil
 
 **Ressources :**
 
-- 🛠 [Favicon Generator](**https**://realfavicongenerator.net/) pour générer toutes les versions du **favicon**
+- 🛠 [Favicon Generator](https://realfavicongenerator.net/) pour générer toutes les versions du **favicon**
 - 🛠 [SVGOMG](https://jakearchibald.github.io/svgomg/) pour optimiser les SVG
 
 ## 1.7 - Liens et navigation
@@ -155,7 +149,7 @@ Si tu fais partie des dinosaures qui n’utilise pas encore un de ces deux outil
 # 2 - Livraison
 
 - [ ] Pour tous les sites web, au moins 2 versions du design sont fournis (mobile, desktop et éventuellement tablette) ainsi que le **styleguide**.
-- [ ] Les fichiers **Figma** ou **Adobe XD** sont nettoyés avant d'être livrés. Les calques vides et inutiles doivent être supprimés pour faciliter l’intégration.
+- [ ] Les fichiers **Figma** sont nettoyés avant d'être livrés. Les calques vides et inutiles doivent être supprimés pour faciliter l’intégration.
 - [ ] La **page d'erreur 404** et éventuellement la page d'erreur 500 ont été conçues.
 - [ ] Les pages **Mentions légales** et **Politique de confidentialité** ont été conçues (pages de texte simples).
 - [ ] Tous **les composants ont été validés** par le·la développeur·euse comme réalisables techniquement et compatibles avec la stack technique qui sera utilisée
